@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/ryanleis"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ryanleis"><img src="https://img.shields.io/badge/-Ryan%20C%20Leis-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
