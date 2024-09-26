@@ -3,7 +3,7 @@
 </a>
 **About Me:**
 - 🔭 I’m currently exploring new technologies and develop software solutions and quick hacks
-- 👯 I work for GitHub and help developers use Artificial Intelligence to improve and enhance their expereince across the SDLC
+- 👯 I work for GitHub and help folks use Artificial Intelligence to improve DevX
 - 💬 Ask me about GitHub, DevOps, Software Engineering
 - 📫 How to reach me: ...
 
