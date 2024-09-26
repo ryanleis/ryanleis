@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ryan Leis](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Ryan Leis](https://raw.githubusercontent.com/ryanleis/ryanleis/master/assets/Banner.jpg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
