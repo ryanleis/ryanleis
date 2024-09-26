@@ -1,28 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ryanleis/ryanleis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+</a>
+**About Me:**
+- 🔭 I’m currently exploring new technologies and develop software solutions and quick hacks
+- 👯 I work for GitHub and help developers use Artificial Intelligence to improve and enhance their expereince across the SDLC
+- 💬 Ask me about GitHub, DevOps, Software Engineering
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 ![Ryan Leis](https://raw.githubusercontent.com/ryanleis/ryanleis/master/assets/Banner.jpg)
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I work for GitHub and help developers use Artificial Intelligence to improve and enhance their expereince across the SDLC.\
-💬 &nbsp;Feel free to reach out to me for anything GitHub, DevOps, Software Engineering.\
-
 
 
 ### ⚙️ &nbsp;GitHub Analytics
