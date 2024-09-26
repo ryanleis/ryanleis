@@ -12,7 +12,7 @@
 - 📫 Message me on GitHub...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nolecram&rank_icon=github&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanleis&rank_icon=github&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolecram&layout=compact&theme=tokyonight&langs_count=8" width='308'>
@@ -20,7 +20,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/ryanleis"><img src="https://img.shields.io/badge/-Ryan%20C%20Leis-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
