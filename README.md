@@ -5,11 +5,11 @@
 
 ## Hi there, I'm @ryanleis 👋 
 
-- 👀 I’m interested in I’m exploring new technologies and develop software solutions and quick hacks
-- 🌱 I’m currently experimenting with GitHub Copilot on Machine Learning functions
-- 👯 I work for GitHub and help folks use Artificial Intelligence to improve DevX
+- 👀 I’m interested in exploring new technologies and developing software solutions
+- 🌱 I’m currently experimenting with GitHub Copilot and Machine Learning functions
+- 👯 I work for GitHub and help folks use Artificial Intelligence to improve DevX and productivity
 - 💬 Ask me about GitHub, DevOps, Software Engineering
-- 📫 Message me on GitHub...
+- 📫 Message me on GitHub or Linkedin!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanleis&rank_icon=github&count_private=true&show_icons=true&theme=tokyonight" />
