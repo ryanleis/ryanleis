@@ -1,6 +1,6 @@
 
 <a>
-  <img align="center" src="https://github.com/nolecram/ryanleis/ryanleis/blob/main/GitHubBanner.jpeg" width="780" />
+  <img align="center" src="https://github.com/ryanleis/ryanleis/blob/main/GitHubBanner.jpeg" width="780" />
 </a>
 
 ## Hi there, I'm @ryanleis 👋 
