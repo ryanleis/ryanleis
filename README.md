@@ -12,7 +12,7 @@
 - 📫 Message me on GitHub or Linkedin!
 
 <a href="https://github.com/ryanleis/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanleis&rank_icon=github&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanleis&rank_icon=github&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/ryanleis/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanleis&layout=compact&theme=tokyonight&langs_count=8" width='308'>
@@ -24,4 +24,3 @@
 <a href="https://linkedin.com/in/ryanleis"><img src="https://img.shields.io/badge/-Ryan%20C%20Leis-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
-
