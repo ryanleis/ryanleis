@@ -11,6 +11,8 @@
 - 💬 Ask me about GitHub, DevOps, Software Engineering
 - 📫 Message me on GitHub or Linkedin!
 
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanleis)](https://github.com/ryanleis/github-readme-stats)
+
 <a href="https://github.com/ryanleis/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanleis&rank_icon=github&count_private=true&show_icons=true&theme=radical" />
 </a>
